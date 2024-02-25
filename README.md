@@ -4,15 +4,6 @@
 
 I was motivated by the professional pursuit of exploring web development. I built this project as an introductory assignment to help me explore HTML, CSS, JavaScript, and Git Flow. It will also serve as a useful review guide. It will help me study and review code material. 
 
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-
 ## Installation
 
 N/A
